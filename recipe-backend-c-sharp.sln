@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApi.Web", "RecipeApi.Web\RecipeApi.Web.csproj", "{0B8764F8-EDC5-4AA3-9672-18C5F2273AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApi.Test", "RecipeApi.Test\RecipeApi.Test.csproj", "{75EAD226-64EC-474A-8DB2-4442787AD41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8764F8-EDC5-4AA3-9672-18C5F2273AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8764F8-EDC5-4AA3-9672-18C5F2273AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8764F8-EDC5-4AA3-9672-18C5F2273AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8764F8-EDC5-4AA3-9672-18C5F2273AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EAD226-64EC-474A-8DB2-4442787AD41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EAD226-64EC-474A-8DB2-4442787AD41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EAD226-64EC-474A-8DB2-4442787AD41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EAD226-64EC-474A-8DB2-4442787AD41F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
